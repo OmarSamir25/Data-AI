@@ -1,37 +1,68 @@
-##README: Omar Samir Erfan
-Welcome to my GitHub profile! I'm Omar Samir Erfan, a passionate and driven Computer Engineering senior at Nile University, Egypt. I specialize in data science, machine learning, and software development, constantly exploring new ways to leverage technology for impactful solutions.
+# Hi, I'm Omar Samir Erfan 👋  
 
-##📘 About Me
-🎓 Education: Computer Engineering (GPA: 3.5, Very Good with Honors). Expected graduation: December 2025.
-📍 Location: 6th of October City, Egypt.
-💼 Current Interests: Machine learning, deep learning, federated learning, scheduling algorithms, energy harvesting predictions, and database systems.
-🔬 Research Experience: Working as a Research Assistant on federated learning and data science projects.
-##💻 Skills
-Programming Languages: Python, SQL, MATLAB, Java, C++, JavaScript.
-Data Tools: Excel, Tableau, Power BI.
-Libraries & Frameworks: Flask, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch.
-Specialties: Data Analysis, Machine Learning, Deep Learning, GUI Development (Tkinter).
-Other Skills: Problem-solving, Agile methodologies, Bilingual communication (English and Arabic).
-##🌟 Featured Projects
-1. Energy Harvesting Prediction
-Description: Predicting energy harvesting from solar sources and comparing it with IoT device consumption.
-Technologies: Python, Machine Learning, Deep Learning.
-2. Scheduling Algorithms Simulator
-Description: A dynamic simulator for scheduling algorithms with a GUI and Gantt chart visualization.
-Technologies: Python, Tkinter.
-3. Real Estate Database Management System
-Description: A database system for managing real estate operations, complete with a Flask-based UI.
-Technologies: Python, Flask, SQL.
-4. GDP Nowcasting
-Description: Using alternative data and machine learning models to nowcast GDP.
-Technologies: Python, Random Forest, Lasso, Linear Regression.
-##🏆 Certifications
-Google Data Analytics (2023)
-Google Business Intelligence (2024)
-SQL for Data Science (2024)
-P&G Supply Chain School (2024)
-##📫 Contact Me
-Email: omarsamir.0604@gmail.com
-Phone: +20 11 1654 3867
-LinkedIn: linkedin.com/in/omar-samir-erfan
-Feel free to reach out if you'd like to collaborate or discuss any projects! 😊
+Welcome to my GitHub! I'm a Computer Engineering senior at Nile University, Egypt, passionate about solving real-world problems using **data science**, **machine learning**, and **software development**. I enjoy creating innovative solutions and collaborating on impactful projects.  
+
+---
+
+## 🚀 About Me  
+
+- 🎓 **Education**: Computer Engineering at Nile University (GPA: 3.5, Very Good with Honors).  
+- 🌍 **Location**: 6 October City, Egypt.  
+- 🔬 **Research Focus**: Federated learning and energy harvesting prediction using machine learning.  
+- 💡 **Interests**: Data science, business intelligence, scheduling algorithms, and IoT energy solutions.  
+
+---
+
+## 🛠️ Skills  
+
+### Programming & Tools  
+- **Languages**: Python, SQL, C++, Java, MATLAB, JavaScript.  
+- **Data Tools**: Tableau, Power BI, Excel.  
+- **Frameworks & Libraries**: Flask, Pandas, NumPy, TensorFlow, PyTorch, Tkinter.  
+
+### Key Expertise  
+- Data Analysis & Visualization  
+- Machine Learning & Deep Learning  
+- GUI Development  
+- Agile Methodologies  
+
+---
+
+## 🌟 Projects  
+
+### ⚡ Energy Harvesting Prediction  
+Predicting solar energy harvesting for IoT devices using ML/DL.  
+**Technologies**: Python, TensorFlow, Pandas.  
+
+### 🕒 Scheduling Algorithms Simulator  
+Interactive GUI-based simulator for scheduling algorithms with Gantt chart visualization.  
+**Technologies**: Python, Tkinter.  
+
+### 🏠 Real Estate Database Management System  
+A database system with CRUD operations and Flask UI for managing real estate operations.  
+**Technologies**: Python, SQL, Flask.  
+
+### 📈 GDP Nowcasting with Alternative Data  
+Nowcasting GDP using alternative data sources (electricity, Google trends, etc.) and ML models.  
+**Technologies**: Python, Random Forest, Lasso Regression.  
+
+---
+
+## 🏆 Certifications  
+
+- **Google Data Analytics** (2023)  
+- **Google Business Intelligence** (2024)  
+- **SQL for Data Science** (2024)  
+- **P&G Supply Chain School** (2024)  
+
+---
+
+## 📫 Connect with Me  
+
+- **Email**: [omarsamir.0604@gmail.com](mailto:omarsamir.0604@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/omar-samir-erfan](https://linkedin.com/in/omar-samir-erfan)  
+- **Phone**: +20 11 1654 3867  
+
+---
+
+Thanks for visiting! Let’s build something amazing together. 🚀  
